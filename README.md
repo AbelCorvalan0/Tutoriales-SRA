@@ -1,6 +1,6 @@
 # Tutoriales de Síntesis de Redes Activas
 
-En este repositorio se encuentran los tutoriales de herramientas de programación y simulación aplicadas a la materia `Síntesis de Redes Activas`.
+En este repositorio se encuentran los tutoriales de herramientas de programación y simulación aplicadas a la materia `Síntesis de Redes Activas` de la carrera Ingeniería Electrónica de la Universidad Nacional de Córdoba (UNC).
 
 Profesores:
 
@@ -10,7 +10,7 @@ Profesores:
 Alumnos autores del repositorio.
 
 - Britez, Fabio.
-- Corvalán, Abel Nicolás
+- Corvalán, Abel Nicolás.
 
 ## Tutorial de Cálculo simbólico con Python
 
