@@ -1,10 +1,24 @@
 # Tutoriales de Síntesis de Redes Activas
 
+En este repositorio se encuentran los tutoriales de herramientas de programación y simulación aplicadas a la materia `Síntesis de Redes Activas`.
+
+Profesores:
+
+- Ing Ferreyra, Pablo Alejandro.
+- Ing Reale, César.
+
+Alumnos autores del repositorio.
+
+- Britez, Fabio.
+- Corvalán, Abel Nicolás
+
 ## Tutorial de Cálculo simbólico con Python
 
-Links de videos:
+### Lista de reproducción de videos:
 
 [Link de lista completa de videos](https://www.youtube.com/watch?v=F6ujjDOjWQo&list=PLe_mZX5j2OGN8P_5LrESM40GkV0_E-5Xi&index=2)
+
+### Videos individuales:
 
 [Introducción - Cálculo simbólico con Python](https://youtu.be/F6ujjDOjWQo)
 
