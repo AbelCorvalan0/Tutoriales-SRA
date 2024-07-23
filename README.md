@@ -4,6 +4,8 @@
 
 Links de videos:
 
+[Link de lista completa de videos](https://www.youtube.com/watch?v=F6ujjDOjWQo&list=PLe_mZX5j2OGN8P_5LrESM40GkV0_E-5Xi&index=2)
+
 [Introducción - Cálculo simbólico con Python](https://youtu.be/F6ujjDOjWQo)
 
 [Video 1 - Presentación del problema](https://youtu.be/cqacZlsLZ64)
