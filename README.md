@@ -25,4 +25,16 @@ Links de videos:
 
 [Video 8 - Expresión de tensión de salida](https://youtu.be/6gXkAlmP5tg)
 
-[Presentación de diseño de filtro](https://youtu.be/3gi1Zy24C6s)
+[Video 9 - Presentación de diseño de filtro](https://youtu.be/3gi1Zy24C6s)
+
+[Video 10 - Cálculo de límite](https://youtu.be/PcR_LoR0PtA)
+
+[Video 11 - Presentación de diseño de filtro activo](https://youtu.be/DgbPz_TYCtk)
+
+[Video 12 - Definición de banda de paso y banda de rechazo](https://youtu.be/vdy0UPA0DSA)
+
+[Video 13 - Función cheb1ord (Librería Scipy)](https://youtu.be/XyyZhRYgCfQ)
+
+[Video 14 - Cálculo de polinomios para función transferencia (Función cheby1)](https://youtu.be/8oRMgSr7rn8)
+
+[Video 15 - Gráfico de bode](https://youtu.be/t3egfR55wb8)
